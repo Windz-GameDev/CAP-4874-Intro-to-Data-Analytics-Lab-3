@@ -83,12 +83,11 @@ Resources Used:
   - DataMuse was the API used for the test query. Program currently find words that rhyme with forgetful. The DataMuse API does not require an API key. It can be used freely without any authentication. 
     - https://www.datamuse.com/api/
 
-
   - The Beautiful Soup Python library was used for parsing the html content from the Google News page, and finding the h4 headers.
     -  https://pypi.org/project/beautifulsoup4/
     
   - The Requests Python library was used to make a get request to both the api resource, and the google news page to retrieve information. 
-  -   https://pypi.org/project/requests/
+    - https://pypi.org/project/requests/
 
   - PyCharm was the primary development IDE for this lab.
     - https://www.jetbrains.com/pycharm/
