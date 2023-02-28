@@ -25,12 +25,21 @@ There are two Python scripts in this repository.
 
 Running the App:
 
-This repository was created as PyCharm project. To run this project on your computer, you will need a Python interpreter, version 3.1.1 recommended. You will also need to install the "requests" and "beautifulsoup4" modules to run these scripts. This can be done using pip with the following commands.
+This repository was created as PyCharm project. To run this project on your computer, you will need a Python interpreter, version 3.11 recommended. You will also need to install the "requests" and "beautifulsoup4" modules to run these scripts. This can be done using pip with the following commands.
 
 - "pip install requests"
 - "pip install beautifulsoup4"
 
-Once you have the repository loaded as a PyCharm project, you can run an individual script by navigating to it in the src folder, then to either of the folders within, and finally, double clicking the .py file, and pressing the run icon on the top right corner of the PyCharm window.
+To load the lab into PyCharm, perform the following steps.
+
+Download the project as a zip.
+Extract the folder within to a location of your choosing.
+Start a PyCharm instance, select File -> Create a New Project -> then navigate to the location where you extracted the folder and select it as the location.
+Finally select an interpreter, 3.11 recommended, then press create. There is no need to create a welcome script.
+You will be told the directory is not empty, simply press "create from existing source", then "this window".
+You now have the project loaded in PyCharm.
+
+You can run an individual script by navigating to it in the src folder, then to either of the folders within, and finally, double clicking the .py file, and pressing the run icon on the top right corner of the PyCharm window.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 
