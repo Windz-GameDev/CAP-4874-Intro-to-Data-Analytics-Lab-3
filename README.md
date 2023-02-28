@@ -41,7 +41,7 @@ Testing:
 
 Input:
 
-  The programs currently do not accept any input from the console, and the input to the functions are hardcoded in their respective script files.
+  The scripts currently do not accept any input from the console when run, and the input to the functions are hardcoded in their respective script files.
   
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 
