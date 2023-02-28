@@ -33,6 +33,7 @@ This repository was created as PyCharm project. To run this project on your comp
 To load the lab into PyCharm, perform the following steps.
 
   - Download the project as a zip.
+    - Press the code drop down button, then download as zip.
 
   - Extract the folder within to a location of your choosing.
 
