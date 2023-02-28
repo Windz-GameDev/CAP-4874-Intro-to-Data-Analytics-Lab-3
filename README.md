@@ -2,7 +2,7 @@
 
 Intro:
 
-This is a lab I completed for for my CAP4784 Introduction to Data Analytics class at UNF.
+This is my lab 3 assignment for the CAP4784 Introduction to Data Analytics class at UNF. I uploaded this project to become more comfortable using Sourcetree and Github to showcase my work, and build my coding portfolio.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
