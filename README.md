@@ -22,13 +22,13 @@ Testing:
   regarldess of whether it is run as administrator.
   
 Resources Used:
-     https://www.datamuse.com/api/
-     -API Used for the test query. Program currently find words that rhyme with forgetful.
-     https://pypi.org/project/beautifulsoup4/
-     -Python library used for parsing the html content from the Google News page, and finding the h4 headers.
-     https://pypi.org/project/requests/
-     -Used to make a get request to both the api resource, and the google news page to retrieve information. 
-     https://www.jetbrains.com/pycharm/
-     -PyCharm was the primary development IDE for this lab.
-     https://colab.research.google.com/
-     -Google Collab was a secondary development environment used for development, and additional testing.
+https://www.datamuse.com/api/
+-API Used for the test query. Program currently find words that rhyme with forgetful.
+https://pypi.org/project/beautifulsoup4/
+-Python library used for parsing the html content from the Google News page, and finding the h4 headers.
+https://pypi.org/project/requests/
+-Used to make a get request to both the api resource, and the google news page to retrieve information. 
+https://www.jetbrains.com/pycharm/
+-PyCharm was the primary development IDE for this lab.
+https://colab.research.google.com/
+-Google Collab was a secondary development environment used for development, and additional testing.
