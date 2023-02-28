@@ -21,10 +21,10 @@ Testing:
   there are no conflicts with the insert statements and duplicate unique ids. The script for questions (9-10) as of 2/28/2023 works without issues
   regarldess of whether it is run as administrator.
   
-Input
+Input:
   The programs currently do not accept any input from the console, and the input to the functions is hardcoded in their respective script files.
   
-Output
+Output:
   The script for Questions (1-8) outputs a DB to an external SQLite3 db file, and displays the result of four select statements to the console. 
   The output of the second script Questions (9-10) also displays to the console.
     
