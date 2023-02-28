@@ -12,7 +12,8 @@ There are two Python scripts in this repository.
 Note: The script for questions 1-8 may requirement administrator privileges to successfully write to the DB, assuming it has already been created.
 
 Lab Instructions:
-[CAP4784_Data Collection.pdf](https://github.com/Windz-GameDev/Data-Analytics-Lab-3/files/10853962/CAP4784_Data.Collection.pdf)
+[Data Collection.pdf](https://github.com/Windz-GameDev/Data-Analytics-Lab-3/files/10854184/Data.Collection.pdf)
+
 
 Testing:
   Both scripts were developed and tested through PyCham using the Python 3.1.1 interpreter.
