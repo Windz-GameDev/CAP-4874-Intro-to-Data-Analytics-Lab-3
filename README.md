@@ -23,6 +23,14 @@ There are two Python scripts in this repository.
   
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 
+Running the App:
+
+This repository was created as PyCharm project. To run this project on your computer, you will need a Python interpreter, version 3.1.1 recommended. You will also need to install the "requests" and "beautifulsoup4" modules to run these scripts. This can be done using pip with the following commands.
+- "pip install requests"
+- "pip install beautifulsoup4"
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
 Important Note:
 
 The script for questions 1-8 may requirement administrator privileges to successfully write to the DB, assuming it has already been created.
