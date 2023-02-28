@@ -26,8 +26,11 @@ There are two Python scripts in this repository.
 Running the App:
 
 This repository was created as PyCharm project. To run this project on your computer, you will need a Python interpreter, version 3.1.1 recommended. You will also need to install the "requests" and "beautifulsoup4" modules to run these scripts. This can be done using pip with the following commands.
+
 - "pip install requests"
 - "pip install beautifulsoup4"
+
+Once you have the repository loaded as a PyCharm project, you can run an individual script by navigating to it in the src folder, then to either of the folder within, and finally, double clicking the .py file, and pressing the run icon on the top right corner of the PyCharm window.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 
