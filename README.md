@@ -13,3 +13,15 @@ Note: The script for questions 1-8 may requirement administrator privileges to s
 
 Lab Instructions:
 [CAP4784_Data Collection.pdf](https://github.com/Windz-GameDev/Data-Analytics-Lab-3/files/10853962/CAP4784_Data.Collection.pdf)
+
+Testing:
+  The first script for questions (1-8) were developed and tested through PyCham using the Python 3.1.1 interpreter.
+  As noted above, the script for questions (1-8) will fail to run correctly due to the lack of write permissions to your database 
+  if it already exists, and PyCharm is not run as administrator. Drop statement were added at the beginning of the first script to ensure 
+  there are no conflicts with the insert statements and duplicate unique ids.
+  
+  
+  Resources Used:
+     https://www.datamuse.com/api/ - API Used for the test query. Program currently find words that rhyme with forgetful.
+     https://pypi.org/project/beautifulsoup4/ - Python library used for parsing the html content from the Google News page, and finding the h4 headers.
+     https://pypi.org/project/requests/ - Used to make a get request to both the api resource, and the google news page to retrieve information. 
