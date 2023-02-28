@@ -2,7 +2,7 @@
     Title: Data Analytics Lab 3: Data Collection (Questions 1 - 8)
     Author: Aaron Goldstein
     Date: 2/25/2023
-    Github: https://github.com/Windz-GameDev
+    Github Repo: https://github.com/Windz-GameDev/Data-Analytics-Lab-3
 
     The purpose of this program is to make a simple API query, and to find matching headlines based on certain
     keywords from the Google News website. The functionality for querying an API, and finding matching headlines by keywords

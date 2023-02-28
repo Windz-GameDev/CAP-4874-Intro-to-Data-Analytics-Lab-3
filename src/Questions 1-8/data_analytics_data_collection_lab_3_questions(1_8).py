@@ -2,7 +2,7 @@
     Title: Data Analytics Lab 3: Data Collection (Questions 1 - 8)
     Author: Aaron Goldstein
     Date: 2/25/2023
-    Github: https://github.com/Windz-GameDev
+    Github Repo: https://github.com/Windz-GameDev/Data-Analytics-Lab-3
 
     The purpose of this program is to create a simple sqlite3 database for a business.
     After establishing a connection, it creates tables for customers, orders, products, and sales.
