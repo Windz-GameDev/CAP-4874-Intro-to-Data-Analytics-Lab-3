@@ -24,7 +24,7 @@ Testing:
   
 Resources Used:
 https://www.datamuse.com/api/
--API Used for the test query. Program currently find words that rhyme with forgetful. No API keys are required.
+-API Used for the test query. Program currently find words that rhyme with forgetful. The DataMuse API does not require an API key. It can be used freely without any authentication. 
 https://pypi.org/project/beautifulsoup4/
 -Python library used for parsing the html content from the Google News page, and finding the h4 headers.
 https://pypi.org/project/requests/
