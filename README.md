@@ -67,7 +67,4 @@ https://pypi.org/project/requests/
 https://www.jetbrains.com/pycharm/
 -PyCharm was the primary development IDE for this lab.
 
-https://colab.research.google.com/
--Google Collab was a secondary development environment used for development, and additional testing.
-
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
