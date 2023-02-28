@@ -51,13 +51,13 @@ You can run an individual script by navigating to it in the src folder, then to 
 
 Important Note:
 
-The script for questions 1-8 may requirement administrator privileges to successfully write to the DB, assuming it has already been created.
+The script for questions 1-8 may require administrator privileges to successfully write to the DB, assuming it has already been created.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Testing:
 
-  Both scripts were developed and run through PyCham using the Python 3.1.1 interpreter.
+  Both scripts were developed and run through PyCham using the Python 3.11 interpreter.
   As noted above, the script for questions (1-8) will fail to run correctly due to the lack of write permissions to your database 
   if it already exists, and PyCharm is not run as administrator. Drops statement were added to beginning of this script as well to ensure 
   there are no conflicts with the insert statements and duplicate unique ids. The script for questions (9-10) as of 2/28/2023 works without issues
