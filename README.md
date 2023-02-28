@@ -30,7 +30,7 @@ This repository was created as PyCharm project. To run this project on your comp
 - "pip install requests"
 - "pip install beautifulsoup4"
 
-Once you have the repository loaded as a PyCharm project, you can run an individual script by navigating to it in the src folder, then to either of the folder within, and finally, double clicking the .py file, and pressing the run icon on the top right corner of the PyCharm window.
+Once you have the repository loaded as a PyCharm project, you can run an individual script by navigating to it in the src folder, then to either of the folders within, and finally, double clicking the .py file, and pressing the run icon on the top right corner of the PyCharm window.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 
