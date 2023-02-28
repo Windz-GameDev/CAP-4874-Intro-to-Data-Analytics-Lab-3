@@ -68,6 +68,6 @@ https://www.jetbrains.com/pycharm/
 -PyCharm was the primary development IDE for this lab.
 
 https://colab.research.google.com/
--Google Collab was a secondary development enviroment for this lab, used for development and testing of the script for questions (9-10).
+-Google Collab was a secondary development enviroment for this lab, used for additional development and testing of the script for the questions (9-10).
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
