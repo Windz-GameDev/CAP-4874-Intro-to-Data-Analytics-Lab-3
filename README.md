@@ -17,7 +17,7 @@ Lab Instructions:
 Testing:
   The first script for questions (1-8) were developed and tested through PyCham using the Python 3.1.1 interpreter.
   As noted above, the script for questions (1-8) will fail to run correctly due to the lack of write permissions to your database 
-  if it already exists, and PyCharm is not run as administrator. Drop statement were added at the beginning of the first script to ensure 
+  if it already exists, and PyCharm is not run as administrator. Drops statement were added at the beginning of the first script to ensure 
   there are no conflicts with the insert statements and duplicate unique ids.
   
   
