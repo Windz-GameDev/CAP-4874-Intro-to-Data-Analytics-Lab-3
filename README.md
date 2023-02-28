@@ -80,19 +80,20 @@ Output:
  
 Resources Used:
 
-  - https://www.datamuse.com/api/
-    - API Used for the test query. Program currently find words that rhyme with forgetful. The DataMuse API does not require an API key. It can be used freely without any authentication. 
+  - DataMuse was the API used for the test query. Program currently find words that rhyme with forgetful. The DataMuse API does not require an API key. It can be used freely without any authentication. 
+    - https://www.datamuse.com/api/
 
-  - https://pypi.org/project/beautifulsoup4/
-    - Python library used for parsing the html content from the Google News page, and finding the h4 headers.
 
-  - https://pypi.org/project/requests/
-    - Used to make a get request to both the api resource, and the google news page to retrieve information. 
+  - The Beautiful Soup Python library was used for parsing the html content from the Google News page, and finding the h4 headers.
+    -  https://pypi.org/project/beautifulsoup4/
+    
+  - The Requests Python library was used to make a get request to both the api resource, and the google news page to retrieve information. 
+  -   https://pypi.org/project/requests/
 
-  - https://www.jetbrains.com/pycharm/
-    - PyCharm was the primary development IDE for this lab.
-
-  - https://colab.research.google.com/
-    - Google Collab was a secondary development enviroment for this lab, used for additional development and testing of the script for the questions (9-10).
+  - PyCharm was the primary development IDE for this lab.
+    - https://www.jetbrains.com/pycharm/
+  
+  - Google Collab was a secondary development enviroment for this lab, used for additional development and testing of the script for the questions (9-10).
+    - https://colab.research.google.com/
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
